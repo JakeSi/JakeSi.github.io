@@ -35,3 +35,8 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+//open mail client
+function openMail(){
+     window.location.href = "mailto:jake.si@live.com?";
+}
