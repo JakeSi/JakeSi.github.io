@@ -247,6 +247,11 @@ section.success a.active {
     transition: all ease .5s;
 }
 
+.app-icon {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
 }
